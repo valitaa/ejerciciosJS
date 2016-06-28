@@ -32,5 +32,8 @@ alert(output);
 //ejercicio 4
 var valorx, valor;
 valorx = parseInt(prompt("Ingrese el numero"));
-valor = "Las sumas son: " + (valorx + 5) + "" + (valorx + 10)+ ""  + (valorx + 15);
+valor = "Las sumas son: " + "     " +(valorx + 5) + "     " + (valorx + 10) + "     " + (valorx + 15);
 alert(valor);
+
+//ejercicio 5
+
